@@ -4,6 +4,7 @@
   organisation: "IMADA Fagråd",
   lang: "da",
   author: "Simon Holm",
+  logo: image("assets/imada-logo.png", width: 2.3cm),
   attendees-label: "Tilstedeværende bestyrelsesmedlemmer",
 )
 

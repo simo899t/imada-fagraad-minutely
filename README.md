@@ -7,4 +7,4 @@ IMADA Fagråd referater/dagsordener built on [minutest](https://github.com/simo8
 #show: boardmeeting.with(kind: "referat", date: datetime(year: 2026, month: 3, day: 12), chair: "…")
 ```
 
-Types: `boardmeeting`, `councilmeeting`, `generalassembly`. Logo is blank by default; pass `logo: image(...)` if needed.
+Types: `boardmeeting`, `councilmeeting`, `generalassembly`. IMADA logo is the default; `logo: none` removes it.
