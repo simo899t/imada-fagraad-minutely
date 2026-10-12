@@ -1,0 +1,7 @@
+[package]
+name = "imada-fagraad-minutest"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Simon Holm"]
+license = "MIT"
+description = "IMADA Fagråd meeting minutes, built on minutest."
