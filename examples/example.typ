@@ -1,4 +1,4 @@
-#import "@local/imada-fagraad-minutest:0.1.0": *
+#import "@local/imada-fagraad-minutely:0.1.0": *
 #show: boardmeeting.with(
   kind: "referat",
   date: datetime(year: 2026, month: 3, day: 12),
